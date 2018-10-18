@@ -6,4 +6,4 @@ Weka was used to discriminate what algorithm and model is most efficient. It tur
 In this repository you'll find the python file format and the jupyter notebook's.
 
 In this branch I added some polynomial features to the 2nd degree, and also scaled them.
-The absolte standard error came down to ≈2900$
+The absolute standard error came down to ≈2900$
